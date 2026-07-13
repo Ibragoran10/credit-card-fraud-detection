@@ -53,7 +53,9 @@ Model Training: Train the LogisticRegression model.
 
 Evaluation: Measure the accuracy of training and testing data.
 
-⚙️ Technologies Used
+---
+
+## ⚙️ Technologies Used
 Python
 
 Pandas & NumPy (Data Manipulation)
